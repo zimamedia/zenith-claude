@@ -1,0 +1,26 @@
+{
+  "name": "zenith",
+  "owner": {
+    "name": "Zima Media",
+    "url": "https://zenith.ly"
+  },
+  "metadata": {
+    "description": "Zima Media's plugins for Claude."
+  },
+  "plugins": [
+    {
+      "name": "zenith",
+      "source": "./",
+      "description": "Ask Claude about the Google Ads accounts your agency or team manages: overviews, campaigns, keywords and search terms, audits and what to do next, as cards. Read-only.",
+      "version": "0.1.0",
+      "author": {
+        "name": "Zima Media",
+        "url": "https://zenith.ly"
+      },
+      "homepage": "https://zenith.ly",
+      "repository": "https://github.com/zimamedia/zenith-claude",
+      "license": "MIT",
+      "keywords": ["google-ads", "ppc", "advertising", "marketing", "reporting", "gaql"]
+    }
+  ]
+}
