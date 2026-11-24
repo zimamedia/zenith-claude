@@ -1,0 +1,22 @@
+{
+  "name": "zenith",
+  "displayName": "Zenith",
+  "version": "0.1.0",
+  "description": "Ask Claude about the Google Ads accounts your agency or team manages: overviews, campaigns, keywords and search terms, audits and what to do next, as cards. Read-only.",
+  "author": {
+    "name": "Zima Media",
+    "url": "https://zenith.ly"
+  },
+  "homepage": "https://zenith.ly",
+  "repository": "https://github.com/zimamedia/zenith-claude",
+  "license": "MIT",
+  "privacyPolicyUrl": "https://zenith.ly/privacy/",
+  "keywords": [
+    "google-ads",
+    "ppc",
+    "advertising",
+    "marketing",
+    "reporting",
+    "gaql"
+  ]
+}
